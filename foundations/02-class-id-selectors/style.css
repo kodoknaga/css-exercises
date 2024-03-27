@@ -1,0 +1,19 @@
+p.odd, .third {
+    background-color: rgb(255, 154, 141);
+    font-family: "Verdana","DejaVu Sans", sans-serif;
+}
+
+p.third {
+    font-size: 24px;
+}
+
+div#second {
+    color: rgb(42, 99, 255);
+    font-size: 36px;
+}
+
+div#fourth {
+    background-color: lightgreen;
+    font-weight: 700;
+    font-size: 24px;
+}
